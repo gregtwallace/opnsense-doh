@@ -1,0 +1,39 @@
+name: Update DoH Whitelists
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '33 2 * * *'
+
+env:
+  GITHUB_REF: ${{ github.ref }}
+  PYTHON_VERSION: '3'
+
+permissions:
+  contents: write
+
+jobs:
+  do-update:
+    runs-on: ubuntu-24.04
+
+    steps:
+      - name: checkout repo
+        uses: actions/checkout@v6
+        with:
+          repository: ${{ github.repository }}
+          ref: ${{ env.GITHUB_REF }}
+          fetch-depth: 0
+          persist-credentials: true
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+
+      - name: run update script
+        run: python whitelist-ip-doh.py
+
+      - name: Git Auto Commit
+        uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: automated doh ip whitelist update
+          file_pattern: 'whitelist-ip-doh-ipv4.txt whitelist-ip-doh-ipv6.txt'
