@@ -3,7 +3,7 @@ name: Update DoH Whitelists
 on:
   workflow_dispatch:
   schedule:
-    - cron: '33 2 * * *'
+    - cron: '28 * * * *'
 
 env:
   GITHUB_REF: ${{ github.ref }}
