@@ -301,5 +301,5 @@
 172.224.172.73      # mask-h2.icloud.com, mask.icloud.com
 172.224.172.74      # mask-h2.icloud.com, mask.icloud.com
 172.224.172.75      # mask-h2.icloud.com, mask.icloud.com
-172.224.172.76      # mask-h2.icloud.com
+172.224.172.76      # mask-h2.icloud.com, mask.icloud.com
 172.224.172.77      # mask-h2.icloud.com, mask.icloud.com
