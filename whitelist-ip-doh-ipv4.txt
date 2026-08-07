@@ -266,7 +266,7 @@
 17.250.96.101       # mask-h2.icloud.com, mask.icloud.com
 17.250.96.102       # mask-h2.icloud.com, mask.icloud.com
 17.250.96.103       # mask-h2.icloud.com, mask.icloud.com
-17.250.96.104       # mask-h2.icloud.com
+17.250.96.104       # mask-h2.icloud.com, mask.icloud.com
 17.250.96.105       # mask-h2.icloud.com, mask.icloud.com
 17.250.96.106       # mask-h2.icloud.com, mask.icloud.com
 17.250.96.107       # mask-h2.icloud.com, mask.icloud.com
