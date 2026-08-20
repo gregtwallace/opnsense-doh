@@ -140,6 +140,8 @@
 2620:149:a41:580::2:2                   # mask-api.icloud.com
 2620:149:a41:580::2:3                   # mask-api.icloud.com
 2620:149:a41:580::2:4                   # mask-api.icloud.com
+2620:149:a41:580::2:5                   # mask-api.icloud.com
+2620:149:a41:580::2:6                   # mask-api.icloud.com
 2620:149:a41:580::2:7                   # mask-api.icloud.com
 2620:149:a41:580::2:8                   # mask-api.icloud.com
 2620:149:a41:580:e::1                   # mask-api.icloud.com
