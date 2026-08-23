@@ -4,6 +4,7 @@
 2620:149:1360::8                        # mask-h2.icloud.com, mask.icloud.com
 2620:149:1360::9                        # mask-h2.icloud.com, mask.icloud.com
 2620:149:1360::a                        # mask-h2.icloud.com, mask.icloud.com
+2620:149:1360::b                        # mask-h2.icloud.com, mask.icloud.com
 2620:149:1361:1::4                      # mask-h2.icloud.com, mask.icloud.com
 2620:149:1361:1::5                      # mask-h2.icloud.com, mask.icloud.com
 2620:149:1361:1::6                      # mask-h2.icloud.com, mask.icloud.com
@@ -133,6 +134,7 @@
 2620:149:a41:280::34                    # mask-api.icloud.com
 2620:149:a41:280::3c                    # mask-api.icloud.com
 2620:149:a41:280::c                     # mask-api.icloud.com
+2620:149:a41:40d::4                     # mask-h2.icloud.com, mask.icloud.com
 2620:149:a41:40d::7                     # mask-h2.icloud.com, mask.icloud.com
 2620:149:a41:410::4                     # mask-h2.icloud.com, mask.icloud.com
 2620:149:a41:410::7                     # mask-h2.icloud.com, mask.icloud.com
@@ -146,6 +148,7 @@
 2620:149:a41:411::6                     # mask-h2.icloud.com, mask.icloud.com
 2620:149:a41:411::7                     # mask-h2.icloud.com, mask.icloud.com
 2620:149:a41:411::8                     # mask-h2.icloud.com, mask.icloud.com
+2620:149:a41:411::9                     # mask-h2.icloud.com, mask.icloud.com
 2620:149:a41:411::b                     # mask-h2.icloud.com, mask.icloud.com
 2620:149:a41:580:16::1                  # mask-api.icloud.com
 2620:149:a41:580::2:2                   # mask-api.icloud.com
