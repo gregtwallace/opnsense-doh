@@ -90,6 +90,7 @@
 2620:149:1367:6::d                      # mask-h2.icloud.com, mask.icloud.com
 2620:149:1367:6::e                      # mask-h2.icloud.com, mask.icloud.com
 2620:149:1367:6::f                      # mask-h2.icloud.com, mask.icloud.com
+2620:149:1368:4::d                      # mask-h2.icloud.com, mask.icloud.com
 2620:149:1368::14                       # mask-api.icloud.com
 2620:149:1368::1c                       # mask-api.icloud.com
 2620:149:1368::6                        # mask-api.icloud.com
