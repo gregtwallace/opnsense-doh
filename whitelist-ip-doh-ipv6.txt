@@ -22,6 +22,7 @@
 2620:149:1361:2::9                      # mask-h2.icloud.com, mask.icloud.com
 2620:149:1361:2::a                      # mask-h2.icloud.com, mask.icloud.com
 2620:149:1361:2::b                      # mask-h2.icloud.com, mask.icloud.com
+2620:149:1361:7::a                      # mask-h2.icloud.com, mask.icloud.com
 2620:149:1361:8::e                      # mask-h2.icloud.com, mask.icloud.com
 2620:149:1361:9::e                      # mask-h2.icloud.com, mask.icloud.com
 2620:149:1361::10                       # mask-h2.icloud.com, mask.icloud.com
