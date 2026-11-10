@@ -523,14 +523,14 @@
 2a01:b740:1367:3::10                    # mask-h2.icloud.com, mask.icloud.com
 2a01:b740:1367:3::11                    # mask.icloud.com
 2a01:b740:1367:3::12                    # mask-h2.icloud.com, mask.icloud.com
-2a01:b740:1367:3::13                    # mask.icloud.com
+2a01:b740:1367:3::13                    # mask-h2.icloud.com, mask.icloud.com
 2a01:b740:1367:3::14                    # mask-h2.icloud.com, mask.icloud.com
 2a01:b740:1367:3::15                    # mask-h2.icloud.com, mask.icloud.com
 2a01:b740:1367:3::16                    # mask-h2.icloud.com, mask.icloud.com
 2a01:b740:1367:3::17                    # mask-h2.icloud.com, mask.icloud.com
 2a01:b740:1367:3::4                     # mask-h2.icloud.com, mask.icloud.com
 2a01:b740:1367:3::5                     # mask-h2.icloud.com, mask.icloud.com
-2a01:b740:1367:3::6                     # mask.icloud.com
+2a01:b740:1367:3::6                     # mask-h2.icloud.com, mask.icloud.com
 2a01:b740:1367:3::7                     # mask-h2.icloud.com, mask.icloud.com
 2a01:b740:1367:3::8                     # mask-h2.icloud.com, mask.icloud.com
 2a01:b740:1367:3::9                     # mask.icloud.com
