@@ -611,6 +611,14 @@
 2a01:b740:a41:415::b                    # mask.icloud.com
 2a01:b740:a41:415::e                    # mask.icloud.com
 2a01:b740:a41:415::f                    # mask.icloud.com
+2a01:b740:a41:d05::4                    # mask-h2.icloud.com
+2a01:b740:a41:d05::5                    # mask-h2.icloud.com
+2a01:b740:a41:d05::6                    # mask-h2.icloud.com
+2a01:b740:a41:d05::7                    # mask-h2.icloud.com
+2a01:b740:a41:d0a::8                    # mask-h2.icloud.com
+2a01:b740:a41:d0a::9                    # mask-h2.icloud.com
+2a01:b740:a41:d0a::a                    # mask-h2.icloud.com
+2a01:b740:a41:d0a::b                    # mask-h2.icloud.com
 2a01:b740:a41:e00::4                    # mask-h2.icloud.com
 2a01:b740:a41:e00::5                    # mask-h2.icloud.com
 2a01:b740:a41:e00::6                    # mask-h2.icloud.com
