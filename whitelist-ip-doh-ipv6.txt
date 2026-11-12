@@ -695,6 +695,7 @@
 2a02:26f7:1e:2:ace0:1ec4::              # mask-h2.icloud.com, mask.icloud.com
 2a02:26f7:1e:2:ace0:1ec5::              # mask-h2.icloud.com, mask.icloud.com
 2a02:26f7:1e:2:ace0:1ec6::              # mask-h2.icloud.com, mask.icloud.com
+2a02:26f7:4:0:ace0:1203::               # mask-h2.icloud.com
 2a02:26f7:4:0:ace0:1204::               # mask-h2.icloud.com, mask.icloud.com
 2a02:26f7:4:0:ace0:1205::               # mask-h2.icloud.com, mask.icloud.com
 2a02:26f7:4:0:ace0:1206::               # mask-h2.icloud.com, mask.icloud.com
