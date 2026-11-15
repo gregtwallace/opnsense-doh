@@ -50,10 +50,10 @@
 17.248.152.104      # mask-h2.icloud.com, mask.icloud.com
 17.248.152.105      # mask-h2.icloud.com, mask.icloud.com
 17.248.152.106      # mask-h2.icloud.com, mask.icloud.com
-17.248.152.107      # mask-h2.icloud.com
+17.248.152.107      # mask-h2.icloud.com, mask.icloud.com
 17.248.152.108      # mask-h2.icloud.com
 17.248.152.109      # mask-h2.icloud.com, mask.icloud.com
-17.248.152.110      # mask-h2.icloud.com
+17.248.152.110      # mask-h2.icloud.com, mask.icloud.com
 17.248.152.111      # mask-h2.icloud.com
 17.248.152.112      # mask-h2.icloud.com, mask.icloud.com
 17.248.152.113      # mask-h2.icloud.com, mask.icloud.com
@@ -65,13 +65,13 @@
 17.248.152.135      # mask-h2.icloud.com
 17.248.152.136      # mask-h2.icloud.com, mask.icloud.com
 17.248.152.138      # mask-h2.icloud.com
-17.248.152.139      # mask-h2.icloud.com
+17.248.152.139      # mask-h2.icloud.com, mask.icloud.com
 17.248.152.140      # mask-h2.icloud.com
 17.248.152.141      # mask-h2.icloud.com, mask.icloud.com
 17.248.152.142      # mask-h2.icloud.com, mask.icloud.com
 17.248.152.143      # mask-h2.icloud.com, mask.icloud.com
 17.248.152.144      # mask-h2.icloud.com
-17.248.152.145      # mask-h2.icloud.com
+17.248.152.145      # mask-h2.icloud.com, mask.icloud.com
 17.248.163.73       # mask-h2.icloud.com
 17.248.163.74       # mask-h2.icloud.com
 17.248.163.75       # mask-h2.icloud.com, mask.icloud.com
@@ -614,13 +614,13 @@
 17.250.96.119       # mask-h2.icloud.com, mask.icloud.com
 17.250.96.120       # mask-h2.icloud.com, mask.icloud.com
 17.250.96.121       # mask-h2.icloud.com, mask.icloud.com
-17.250.98.48        # mask-h2.icloud.com
+17.250.98.48        # mask-h2.icloud.com, mask.icloud.com
 17.250.98.49        # mask-h2.icloud.com, mask.icloud.com
 17.250.98.50        # mask-h2.icloud.com, mask.icloud.com
 17.250.98.51        # mask-h2.icloud.com, mask.icloud.com
 17.250.98.80        # mask-h2.icloud.com, mask.icloud.com
 17.250.98.81        # mask-h2.icloud.com
-17.250.98.82        # mask-h2.icloud.com
+17.250.98.82        # mask-h2.icloud.com, mask.icloud.com
 17.250.98.132       # mask-h2.icloud.com, mask.icloud.com
 17.250.98.133       # mask-h2.icloud.com, mask.icloud.com
 17.250.98.134       # mask-h2.icloud.com, mask.icloud.com
@@ -694,7 +694,7 @@
 172.224.18.4        # mask-h2.icloud.com, mask.icloud.com
 172.224.18.5        # mask-h2.icloud.com
 172.224.18.6        # mask-h2.icloud.com, mask.icloud.com
-172.224.18.7        # mask.icloud.com
+172.224.18.7        # mask-h2.icloud.com, mask.icloud.com
 172.224.18.9        # mask-h2.icloud.com, mask.icloud.com
 172.224.30.3        # mask-h2.icloud.com, mask.icloud.com
 172.224.30.4        # mask-h2.icloud.com, mask.icloud.com
@@ -725,7 +725,7 @@
 172.224.91.15       # mask-h2.icloud.com, mask.icloud.com
 172.224.110.4       # mask-h2.icloud.com, mask.icloud.com
 172.224.110.5       # mask-h2.icloud.com
-172.224.110.6       # mask-h2.icloud.com
+172.224.110.6       # mask-h2.icloud.com, mask.icloud.com
 172.224.110.7       # mask-h2.icloud.com, mask.icloud.com
 172.224.110.8       # mask-h2.icloud.com, mask.icloud.com
 172.224.110.9       # mask-h2.icloud.com
@@ -740,14 +740,14 @@
 172.224.110.18      # mask-h2.icloud.com, mask.icloud.com
 172.224.110.19      # mask-h2.icloud.com, mask.icloud.com
 172.224.110.20      # mask-h2.icloud.com, mask.icloud.com
-172.224.111.4       # mask-h2.icloud.com
+172.224.111.4       # mask-h2.icloud.com, mask.icloud.com
 172.224.111.5       # mask-h2.icloud.com, mask.icloud.com
 172.224.111.6       # mask-h2.icloud.com, mask.icloud.com
 172.224.111.7       # mask-h2.icloud.com
 172.224.111.8       # mask-h2.icloud.com, mask.icloud.com
 172.224.111.9       # mask-h2.icloud.com
 172.224.111.10      # mask-h2.icloud.com, mask.icloud.com
-172.224.111.11      # mask-h2.icloud.com
+172.224.111.11      # mask-h2.icloud.com, mask.icloud.com
 172.224.111.12      # mask-h2.icloud.com, mask.icloud.com
 172.224.111.13      # mask-h2.icloud.com
 172.224.111.14      # mask-h2.icloud.com, mask.icloud.com
